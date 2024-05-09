@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=dahyeon777&show_icons=true&hide_border=true)]
-(https://github.com/dahyeon777)
+[![github stats](https://github-readme-stats.vercel.app/api?username=dahyeon777&show_icons=true&hide_border=true)](https://github.com/dahyeon777)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon777&layout=compact)](https://github.com/dahyeon777)
