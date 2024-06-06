@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![github stats](https://github-readme-stats.vercel.app/api?username=dahyeon777&show_icons=true&hide_border=true)](https://github.com/dahyeon777)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon777&layout=compact)](https://github.com/dahyeon777)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
@@ -23,5 +24,6 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/></a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eufh6498)](https://solved.ac/eufh6498/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eufh6498&c&h)](https://solved.ac/eufh6498/)
+
 
