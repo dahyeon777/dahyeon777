@@ -1,4 +1,4 @@
-### 안녕하세요! 신입 안드로이드 개발자 유다현입니다. 👋
+### 안녕하세요! 신입 안드로이드 개발자 유다현입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahyeon777)](https://hits.seeyoufarm.com)
 
 <!--
