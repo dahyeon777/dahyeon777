@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=dahyeon777&show_icons=true&hide_border=true)](https://github.com/dahyeon777)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon777&layout=compact)](https://github.com/dahyeon777)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eufh6498)](https://solved.ac/eufh6498/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준)](https://solved.ac/eufh6498/)
 
 
 
