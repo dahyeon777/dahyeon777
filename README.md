@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=dahyeon777&show_icons=true&hide_border=true)](https://github.com/dahyeon777)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahyeon777&layout=compact)](https://github.com/dahyeon777)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
